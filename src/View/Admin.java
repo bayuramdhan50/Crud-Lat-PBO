@@ -90,7 +90,6 @@ public class Admin extends JDialog {
             }
         });
         setVisible(true);
-
     }
     private void refreshProductTable() {
         // Ambil data produk dari database
